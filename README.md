@@ -91,3 +91,4 @@ multi-agent/
 ---
 
 **Tejas Eklare** · B.Tech Computer Engineering 
+(This idea just came from no where. Our semester exams were going and I was struggling to make a strategy or plan for the subjects so took some liberty to make this project)

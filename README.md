@@ -3,6 +3,15 @@
 A smart AI-powered exam preparation system that generates personalized day-wise study plans using a multi-agent architecture. Built for students who want structured, topic-wise planning — not generic study tips.
 
 ---
+## 💡 Motivation
+
+Semester exams were around the corner and I had no idea where to start. Six subjects, nine days, and zero plan — the usual student situation.
+
+I spent more time worrying about *what* to study than actually studying. So one night I just started building something that could figure it out for me. I gave it my subjects, told it how many days I had, and it handed me a day-wise plan. That was enough to get me unstuck.
+
+It worked. I used it for my own prep, then kept building on it until it became this.
+
+---
 
 ## ✨ Features
 
@@ -91,4 +100,3 @@ multi-agent/
 ---
 
 **Tejas Eklare** · B.Tech Computer Engineering 
-(This idea just came from no where. Our semester exams were going and I was struggling to make a strategy or plan for the subjects so took some liberty to make this project)
